@@ -1,0 +1,83 @@
+[
+  {
+    "_id": 1,
+    "First_name": "amit",
+    "Last_name": "bhide",
+    "Email": "amit@gmail.com",
+    "Salary": 40000,
+    "Skills": ["angular", "react", "mongodb"],
+    "department": "IT"
+  },
+  {
+    "_id": 2,
+    "First_name": "sumit",
+    "Last_name": "surve",
+    "Email": "sumit@gmail.com",
+    "Salary": 3000,
+    "Skills": ["accounting", "tax"],
+    "department": "Finance"
+  },
+  {
+    "_id": 3,
+    "First_name": "niketan",
+    "Last_name": "singh",
+    "Email": "niketan@gmail.com",
+    "Salary": 44500,
+    "Skills": ["sales", "marketing"],
+    "department": "Marketing"
+  },
+  {
+    "_id": 4,
+    "First_name": "vijay",
+    "Last_name": "vishwakarma",
+    "Email": "vijay@gmail.com",
+    "Salary": 22000,
+    "Skills": ["java"],
+    "department": "CS"
+  },
+  {
+    "_id": 5,
+    "First_name": "kaushal",
+    "Last_name": "shukla",
+    "Email": "kaushal@gmail.com",
+    "Salary": 60000,
+    "Skills": ["accounting", "tax"],
+    "department": "Finance"
+  },
+  {
+    "_id": 6,
+    "First_name": "mita",
+    "Last_name": "yadav",
+    "Email": "mita@gmail.com",
+    "Salary": 20000,
+    "Skills": ["asp.net", "blockchain"],
+    "department": "CS"
+  },
+  {
+    "_id": 7,
+    "First_name": "sumita",
+    "Last_name": "mahale",
+    "Email": "sumita@gmail.com",
+    "Salary": 15000,
+    "Skills": ["Networking"],
+    "department": "IT"
+  },
+  {
+    "_id": 8,
+    "First_name": "anita",
+    "Last_name": "kulkarni",
+    "Email": "anita@gmail.com",
+    "Salary": 34000,
+    "Skills": ["SAP", "Analytics"],
+    "department": "IT"
+  },
+  {
+    "_id": 9,
+    "First_name": "Amit",
+    "Last_name": "khona",
+    "Email": "kevl@gmail.com",
+    "Salary": 57000,
+    "Skills": ["SAP"],
+    "department": "Stock"
+  }
+]
